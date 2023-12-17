@@ -1,0 +1,8 @@
+image: greenhouse_karto99_much-fixed.pgm
+resolution: 0.025000
+#origin: [-4.884450, -7.544549, 0.000000]       #new
+origin: [-27.803450, -13.171549, 0.000000]      #old
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196
+
